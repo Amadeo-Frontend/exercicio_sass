@@ -1,0 +1,23 @@
+{
+  "name": "exe_sass",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass src/main.scss build/main.css --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amadeo-Frontend/exercicio_sass.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Amadeo-Frontend/exercicio_sass/issues"
+  },
+  "homepage": "https://github.com/Amadeo-Frontend/exercicio_sass#readme",
+  "devDependencies": {
+    "sass": "^1.58.3"
+  }
+}
